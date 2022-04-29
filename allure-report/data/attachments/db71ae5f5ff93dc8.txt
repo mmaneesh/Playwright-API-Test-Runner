@@ -1,0 +1,7 @@
+{
+  first_name: [32m'Maneesh'[39m,
+  last_name: [32m'Maddala'[39m,
+  email: [32m'test@grr.la'[39m,
+  id: [32m'595'[39m,
+  createdAt: [32m'2022-04-13T19:43:19.413Z'[39m
+}

@@ -1,0 +1,5 @@
+{
+  data: [1mnull[22m,
+  errors: [ [32m'Search String Cannot Exceed 250 Characters'[39m ],
+  totalCount: [33m0[39m
+}

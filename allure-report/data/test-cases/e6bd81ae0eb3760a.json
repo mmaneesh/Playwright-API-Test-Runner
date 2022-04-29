@@ -1,0 +1,114 @@
+{
+  "uid" : "e6bd81ae0eb3760a",
+  "name" : "Get Companies Data - InValid Params 250+ char long",
+  "fullName" : "Get Companies Data - InValid Params 250+ char long",
+  "historyId" : "QA referenceData.spec.js Reference Data API Test Get Companies Data - InValid Params 250+ char long",
+  "time" : {
+    "start" : 1649879002816,
+    "stop" : 1649879002834,
+    "duration" : 18
+  },
+  "status" : "failed",
+  "statusMessage" : "baseUrl is not defined",
+  "statusTrace" : "ReferenceError: baseUrl is not defined\n    at C:\\Automation\\Playwright\\Playwright-API Test\\tests\\apiTests\\referenceData.spec.js:61:59",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "baseUrl is not defined",
+    "statusTrace" : "ReferenceError: baseUrl is not defined\n    at C:\\Automation\\Playwright\\Playwright-API Test\\tests\\apiTests\\referenceData.spec.js:61:59",
+    "steps" : [ {
+      "name" : "Before Hooks",
+      "time" : {
+        "start" : 1649879002817,
+        "stop" : 1649879002830,
+        "duration" : 13
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "After Hooks",
+      "time" : {
+        "start" : 1649879002830,
+        "stop" : 1649879002834,
+        "duration" : 4
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "apiRequestContext.dispose",
+        "time" : {
+          "start" : 1649879002833,
+          "stop" : 1649879002834,
+          "duration" : 1
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "hasContent" : false,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "hasContent" : true,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "parentSuite",
+    "value" : "QA"
+  }, {
+    "name" : "suite",
+    "value" : "referenceData.spec.js"
+  }, {
+    "name" : "subSuite",
+    "value" : "Reference Data API Test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "e6bd81ae0eb3760a.json",
+  "parameterValues" : [ ]
+}

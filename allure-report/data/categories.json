@@ -1,0 +1,68 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expect(received).toBe(expected) // Object.is equality\n\nExpected: 15\nReceived: 6",
+      "children" : [ {
+        "name" : "Get Companies Data - Valid Params",
+        "uid" : "1d16ce813eb946db",
+        "parentUid" : "b1039f4dd45323ae4590c11b8117fbce",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649879002568,
+          "stop" : 1649879003098,
+          "duration" : 530
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b1039f4dd45323ae4590c11b8117fbce"
+    }, {
+      "name" : "baseUrl is not defined",
+      "children" : [ {
+        "name" : "Get Companies Data - InValid Params",
+        "uid" : "fa37a98316f805f9",
+        "parentUid" : "5c725e325a726b88f9afd24b449b8937",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649879002569,
+          "stop" : 1649879002584,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Get Companies Data - InValid Params 250+ char long",
+        "uid" : "e6bd81ae0eb3760a",
+        "parentUid" : "5c725e325a726b88f9afd24b449b8937",
+        "status" : "failed",
+        "time" : {
+          "start" : 1649879002816,
+          "stop" : 1649879002834,
+          "duration" : 18
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5c725e325a726b88f9afd24b449b8937"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

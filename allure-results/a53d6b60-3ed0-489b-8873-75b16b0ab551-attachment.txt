@@ -1,0 +1,5 @@
+{
+  data: [1mnull[22m,
+  errors: [ [32m'Search string can only contain letters, numbers and spaces'[39m ],
+  totalCount: [33m0[39m
+}

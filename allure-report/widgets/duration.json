@@ -1,0 +1,91 @@
+[ {
+  "uid" : "efe63663fda843d3",
+  "name" : "Sample Playwright API Test - POST Request",
+  "time" : {
+    "start" : 1649878998932,
+    "stop" : 1649878999373,
+    "duration" : 441
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d361e40e5a4ea8f",
+  "name" : "Sample Playwright API Test - POST Login Successful",
+  "time" : {
+    "start" : 1649878998937,
+    "stop" : 1649878999389,
+    "duration" : 452
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "458f6f053ffe9cd3",
+  "name" : "Sample Playwright API Test - Invalid End Point",
+  "time" : {
+    "start" : 1649878998934,
+    "stop" : 1649878999352,
+    "duration" : 418
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d16ce813eb946db",
+  "name" : "Get Companies Data - Valid Params",
+  "time" : {
+    "start" : 1649879002568,
+    "stop" : 1649879003098,
+    "duration" : 530
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2dd9aa80f054fc4",
+  "name" : "Sample Playwright API Test - 200 Status",
+  "time" : {
+    "start" : 1649878998953,
+    "stop" : 1649878999210,
+    "duration" : 257
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fa37a98316f805f9",
+  "name" : "Get Companies Data - InValid Params",
+  "time" : {
+    "start" : 1649879002569,
+    "stop" : 1649879002584,
+    "duration" : 15
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "d791ec9a95166a76",
+  "name" : "Sample Playwright API Test - GET Request",
+  "time" : {
+    "start" : 1649878998940,
+    "stop" : 1649878999186,
+    "duration" : 246
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e6bd81ae0eb3760a",
+  "name" : "Get Companies Data - InValid Params 250+ char long",
+  "time" : {
+    "start" : 1649879002816,
+    "stop" : 1649879002834,
+    "duration" : 18
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "882d589534c5d4e5",
+  "name" : "Sample Playwright API Test - POST Login UnSuccessful",
+  "time" : {
+    "start" : 1649878999200,
+    "stop" : 1649878999664,
+    "duration" : 464
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

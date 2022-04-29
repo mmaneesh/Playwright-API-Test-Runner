@@ -1,0 +1,13 @@
+{
+  data: {
+    id: [33m2[39m,
+    email: [32m'janet.weaver@reqres.in'[39m,
+    first_name: [32m'Janet'[39m,
+    last_name: [32m'Weaver'[39m,
+    avatar: [32m'https://reqres.in/img/faces/2-image.jpg'[39m
+  },
+  support: {
+    url: [32m'https://reqres.in/#support-heading'[39m,
+    text: [32m'To keep ReqRes free, contributions towards server costs are appreciated!'[39m
+  }
+}
